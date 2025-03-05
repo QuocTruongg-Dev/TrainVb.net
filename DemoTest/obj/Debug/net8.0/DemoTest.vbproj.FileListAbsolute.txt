@@ -1,0 +1,14 @@
+D:\VB.NET\DemoTest\DemoTest\bin\Debug\net8.0\DemoTest.exe
+D:\VB.NET\DemoTest\DemoTest\bin\Debug\net8.0\DemoTest.deps.json
+D:\VB.NET\DemoTest\DemoTest\bin\Debug\net8.0\DemoTest.runtimeconfig.json
+D:\VB.NET\DemoTest\DemoTest\bin\Debug\net8.0\DemoTest.dll
+D:\VB.NET\DemoTest\DemoTest\bin\Debug\net8.0\DemoTest.pdb
+D:\VB.NET\DemoTest\DemoTest\obj\Debug\net8.0\DemoTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB.NET\DemoTest\DemoTest\obj\Debug\net8.0\DemoTest.AssemblyInfoInputs.cache
+D:\VB.NET\DemoTest\DemoTest\obj\Debug\net8.0\DemoTest.AssemblyInfo.vb
+D:\VB.NET\DemoTest\DemoTest\obj\Debug\net8.0\DemoTest.vbproj.CoreCompileInputs.cache
+D:\VB.NET\DemoTest\DemoTest\obj\Debug\net8.0\DemoTest.dll
+D:\VB.NET\DemoTest\DemoTest\obj\Debug\net8.0\refint\DemoTest.dll
+D:\VB.NET\DemoTest\DemoTest\obj\Debug\net8.0\DemoTest.pdb
+D:\VB.NET\DemoTest\DemoTest\obj\Debug\net8.0\DemoTest.genruntimeconfig.cache
+D:\VB.NET\DemoTest\DemoTest\obj\Debug\net8.0\ref\DemoTest.dll
